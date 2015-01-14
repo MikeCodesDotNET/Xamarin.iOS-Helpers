@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Helpers.Test/Helpers.Test.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnifiedHelpers/DateTimeExtensions.cs">
+    <Files>
+      <File FileName="UnifiedHelpers/DateTimeExtensions.cs" Line="20" Column="20" />
+      <File FileName="Helpers.Test/UnitTestAppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Helpers.Test/ImageTests.cs" Line="1" Column="1" />
+      <File FileName="UnifiedHelpers/Architecture.cs" Line="1" Column="1" />
+      <File FileName="UnifiedHelpers/Colours.cs" Line="1" Column="1" />
+      <File FileName="UnifiedHelpers/Image.cs" Line="1" Column="1" />
+      <File FileName="Helpers.Test/Main.cs" Line="1" Column="1" />
+      <File FileName="Helpers.Test/ColoursTest.cs" Line="1" Column="1" />
+      <File FileName="Helpers.Test/DateTimeTests (copy).cs" Line="1" Column="1" />
+      <File FileName="Helpers.Test/ArchitectureTests.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
